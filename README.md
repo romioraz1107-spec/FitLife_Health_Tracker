@@ -51,7 +51,7 @@ To run this project locally, you need:
 ## 🚀 How to Run Locally
 
 ### 1. Clone the Repository
-git clone https://github.com/YOUR-USERNAME/FitLife_Health_Tracker.git
+git clone https://github.com/romioraz1107-spec/FitLife_Health_Tracker.git
 
 ### 2. Move the Project
 
@@ -107,7 +107,7 @@ Hosting steps:
 ## 🔗 Repository
 
 GitHub Repository:
-https://github.com/YOUR-USERNAME/FitLife_Health_Tracker
+https://github.com/romioraz1107-spec/FitLife_Health_Tracker
 
 ## 🔐 Security Notes
 
